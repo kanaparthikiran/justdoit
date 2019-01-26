@@ -1,4 +1,5 @@
-//package com.hotwire.hotel;
+package com.hotel.api.test;
+//package com.hotel.api.test;
 //
 //import static org.junit.Assert.*;
 //

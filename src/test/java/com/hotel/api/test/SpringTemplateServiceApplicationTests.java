@@ -1,4 +1,5 @@
-//package com.hotwire.hotel;
+package com.hotel.api.test;
+//package com.hotel.api.test;
 //
 //import org.junit.Test;
 //import org.junit.runner.RunWith;
